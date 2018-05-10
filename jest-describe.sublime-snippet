@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+describe('$1', () => {
+  $2
+})
+]]></content>
+  <tabTrigger>_jd</tabTrigger>
+  <scope>source.js</scope>
+  <description>jest describe</description>
+</snippet>

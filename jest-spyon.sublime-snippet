@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+jest.spyOn($1, $2)
+]]></content>
+  <tabTrigger>_jso</tabTrigger>
+  <scope>source.js</scope>
+  <description>jest spy on</description>
+</snippet>

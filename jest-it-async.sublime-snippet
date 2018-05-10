@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it('$1', async () => {
+  $2
+})
+]]></content>
+  <tabTrigger>_jia</tabTrigger>
+  <scope>source.js</scope>
+  <description>jest it async</description>
+</snippet>
