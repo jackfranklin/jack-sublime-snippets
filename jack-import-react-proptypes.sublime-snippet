@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import React from 'react''
+import PropTypes from 'prop-types';
+]]></content>
+  <tabTrigger>_irp</tabTrigger>
+  <scope>source.js</scope>
+  <description>import React and PropTypes</description>
+</snippet>

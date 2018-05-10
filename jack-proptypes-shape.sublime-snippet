@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.shape({$1})
+]]></content>
+  <tabTrigger>_ptsh</tabTrigger>
+  <scope>source.js</scope>
+  <description>PropTypes: shape</description>
+</snippet>

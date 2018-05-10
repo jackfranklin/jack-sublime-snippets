@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.oneOf($1).isRequired
+]]></content>
+  <tabTrigger>_ptoor</tabTrigger>
+  <scope>source.js</scope>
+  <description>PropTypes: oneOf required</description>
+</snippet>

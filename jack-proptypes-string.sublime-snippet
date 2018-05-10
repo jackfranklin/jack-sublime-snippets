@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.string
+]]></content>
+  <tabTrigger>_pts</tabTrigger>
+  <scope>source.js</scope>
+  <description>PropTypes: string</description>
+</snippet>

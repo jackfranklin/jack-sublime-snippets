@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.oneOf($1)
+]]></content>
+  <tabTrigger>_ptoo</tabTrigger>
+  <scope>source.js</scope>
+  <description>PropTypes: oneOf</description>
+</snippet>

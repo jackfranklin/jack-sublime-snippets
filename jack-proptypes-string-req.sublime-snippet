@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.string.isRequired
+]]></content>
+  <tabTrigger>_ptsr</tabTrigger>
+  <scope>source.js</scope>
+  <description>PropTypes: string isRequired</description>
+</snippet>

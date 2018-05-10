@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+const ${1:MyComponent} = props => (
+  <div />
+)
+]]></content>
+  <tabTrigger>_rsfc</tabTrigger>
+  <scope>source.js</scope>
+  <description>React sfc skeleton</description>
+</snippet>

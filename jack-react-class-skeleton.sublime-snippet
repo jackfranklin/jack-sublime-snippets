@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+class ${1:MyComponent} extends Component {
+  render() {
+    return <div />
+  }
+}
+]]></content>
+  <tabTrigger>_rcc</tabTrigger>
+  <scope>source.js</scope>
+  <description>React class skeleton</description>
+</snippet>

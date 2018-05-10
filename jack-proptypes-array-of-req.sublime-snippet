@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.arrayOf($1).isRequired
+]]></content>
+  <tabTrigger>_ptaor</tabTrigger>
+  <scope>source.js</scope>
+  <description>PropTypes: arrayOf.isRequired</description>
+</snippet>
